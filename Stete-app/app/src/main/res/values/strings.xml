@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stete od potresa</string>
+    <string name="novo">Nova steta</string>
+    <string name="promjeni">Promjeni stetu</string>
+    <string name="obrisi">Obriši stetu</string>
+    <string name="odustani">Odustani</string>
+    <string name="vlasnik">vlasnik</string>
+    <string name="geografskaSirina">Geografska Sirina</string>
+    <string name="geografskaDuzina">Geografska Duzina</string>
+    <string name="iznosStete">Iznos Stete</string>
+    <string name="RESTAPI">https://oziz.ffos.hr/nastava20202021/tzilic_20/v1/</string>
+</resources>
